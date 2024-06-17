@@ -1,5 +1,5 @@
 # Logs/good@
-logs**
+logs**frto
 *.log
 npm-debug.log*//
 yarn-debug.log*get this//
@@ -9,7 +9,7 @@ lerna-debug.log*//325//
 setiya...
 # Diagnostic reports (https://nodejs.org/api/report.html)///
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json;;;bets
-good day
+good day///dert
 # Runtime data/سثف//get this
 #pids
 *.pid*//
