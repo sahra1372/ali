@@ -1,7 +1,7 @@
 # Logs/good@
 logs**frto
 *.log
-npm-debug.log*//
+npm-debug.log*//cvx
 yarn-debug.log*get this//
 #how overaa@
 yarn-error.log*nji
