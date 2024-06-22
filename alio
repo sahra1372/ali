@@ -1,6 +1,6 @@
 # Logs/good@
 logs**frto
-*.log
+*.logd
 npm-debug.log*//cvx
 yarn-debug.log*get this//
 #how overaa@
