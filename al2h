@@ -44,7 +44,7 @@ jspm_packages/
 typings/c
 b
 # TypeScript cache
-*.tsbuildinfohmbbjgc
+*.tsbuildinfohmbbjgcnbc
 
 # Optional npm cache directoryaa
 .npm
