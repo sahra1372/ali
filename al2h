@@ -29,7 +29,7 @@ lpo
 #juio
 # Bower dependency directory (https://bower.io/)
 bower_components
-#nice
+#nicehui
 # node-waf configuration**
 .lock-wscript
 mnv
