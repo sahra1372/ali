@@ -28,7 +28,7 @@ lpo
 .grunt
 #juio
 # Bower dependency directory (https://bower.io/)
-bower_components
+bower_componentsjjll
 #nicehui
 # node-waf configuration**
 .lock-wscript
