@@ -30,7 +30,7 @@ lpo
 # Bower dependency directory (https://bower.io/)
 bower_componentsjjll
 #nicehui
-# node-waf configuration**
+# node-waf configuration**knn
 .lock-wscript
 mnv
 # Compiled binary addons (https://nodejs.org/api/addons.html)vbb
