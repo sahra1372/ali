@@ -78,7 +78,7 @@ opj
 .next
 
 # Nuxt.js build / generate output
-.nuxt
+.nuxtjhg
 dist
 
 # Gatsby files
